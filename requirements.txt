@@ -1,0 +1,11 @@
+uvicorn==0.23.2
+fastapi==0.99.1
+numpy==1.23.4
+openai==0.27.8
+google-cloud-storage==2.10.0
+vertexai==0.0.1
+pydantic==1.10.8
+langchain==0.0.190
+tiktoken==0.3.3
+PyMuPDF==1.21.1
+python-dotenv==1.0.0
